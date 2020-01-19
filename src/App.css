@@ -1,0 +1,30 @@
+textarea {
+    height: 90%;
+    width: 100%;
+    background-color: #ddf3fc;
+    padding: 15px;
+  
+  }
+  
+  .container {
+    background-color: #0191C8;
+    padding: 15px;
+  }
+  
+  .tile.is-child {
+    background-color: #addef2;
+    padding: 10px;
+  }
+  
+  .tile.is-parent {
+    padding: 25px;
+  }
+  
+  .title {
+    text-align: center;
+  }
+  
+  #footer {
+    background-color: #0191C8;
+    padding: 0px;
+  }
