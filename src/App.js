@@ -1,7 +1,7 @@
 
 import React, {useState} from 'react';
 import marked from 'marked';
-import '../node_modules/react-bulma-components/dist/react-bulma-components.min.css';
+import 'react-bulma-components/dist/react-bulma-components.min.css';
 
 const App = () => {
   const placeholder = `
