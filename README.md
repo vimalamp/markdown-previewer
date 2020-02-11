@@ -1,3 +1,14 @@
+#### Markdown Previewer allows viewing the marked text instantaneously. The editor woindow contains prefilled text for showcase. Created with React and Marked libraries. 
+
+#### Link to the working project:
+
+https://vimalamp.github.io/markdown-previewer/
+
+---
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
