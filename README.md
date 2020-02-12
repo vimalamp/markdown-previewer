@@ -1,4 +1,4 @@
-#### Markdown Previewer allows viewing the marked text instantaneously. The editor woindow contains prefilled text for showcase. Created with React and Marked libraries. 
+#### Markdown Previewer allows viewing the marked text instantaneously. The editor woindow contains prefilled text for showcase. Created with React and Boolma frameworks and Marked library. 
 
 #### Link to the working project:
 
